@@ -4,9 +4,14 @@
     "@ionic/angular/standalone"
   ],
   "cSpell.words": [
+    "colorsubmit",
     "firestore",
     "hidepasswordeye",
+    "ionbutton",
+    "ionicon",
     "labelplacement",
-    "showdata"
+    "Procesed",
+    "showdata",
+    "subtitlelarge"
   ]
 }
